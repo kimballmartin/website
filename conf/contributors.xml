@@ -3331,7 +3331,8 @@ Please keep the list in alphabetical order by last name!
  name="Jeremy Martin"/>
 <contributor
  name="Kimball Martin"
- trac="kimball"/>
+ trac="kimball"
+ github="kimballmartin"/>
 <contributor
  name="Robin Martinjak"
  trac="rmartinjak"/>
